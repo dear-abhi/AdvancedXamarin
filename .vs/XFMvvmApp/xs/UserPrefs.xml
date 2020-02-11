@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{AEA8C5B9-D58E-4ED9-A15C-8CC12C245F94}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XFMvvmApp/MainPage.xaml">
+    <Files>
+      <File FileName="XFMvvmApp/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="XFMvvmApp.Android/MainActivity.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XFMvvmApp" expanded="True">
+            <Node name="XFMvvmApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XFMvvmApp.Android PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XFMvvmApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0E28FAB5-63F7-419A-911A-725C7DBB65FA" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

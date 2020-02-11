@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/XFMvvmApp.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/XFMvvmApp.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/XFMvvmApp.iOS.csproj",
+        "projectName": "XFMvvmApp.iOS",
+        "projectPath": "/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/XFMvvmApp.iOS.csproj",
+        "packagesPath": "/Users/abhijithr/.nuget/packages/",
+        "outputPath": "/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/abhijithr/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "/Users/abhijithr/Downloads/nugetLocalSource": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/XFMvvmApp.csproj": {
+                "projectPath": "/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/XFMvvmApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.6.0.264807, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/XFMvvmApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/XFMvvmApp.csproj",
+        "projectName": "XFMvvmApp",
+        "projectPath": "/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/XFMvvmApp.csproj",
+        "packagesPath": "/Users/abhijithr/.nuget/packages/",
+        "outputPath": "/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/abhijithr/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "/Users/abhijithr/Downloads/nugetLocalSource": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "DK.SlidingPanel": {
+              "target": "Package",
+              "version": "[2.2.9, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Plugin.FacebookClient": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.6.0.264807, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

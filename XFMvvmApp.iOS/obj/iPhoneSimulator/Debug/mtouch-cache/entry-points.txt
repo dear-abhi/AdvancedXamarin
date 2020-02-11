@@ -1,0 +1,1479 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_StrErrorR
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_FStat2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ChMod
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_RmDir
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTime
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTimes
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_names
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_get_locale_country_code
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=xamarin_get_block_descriptor
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_int_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_int_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_int_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_int_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_Int64_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_Int64_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_Int64_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_Int64_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_int_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_int_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_Int64_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_Int64_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int_CGSize_nfloat_nfloat
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int_CGSize_nfloat_nfloat
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int_CGSize_nfloat_nfloat
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int_CGSize_nfloat_nfloat
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64_CGSize_nfloat_nfloat
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64_CGSize_nfloat_nfloat
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64_CGSize_nfloat_nfloat
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64_CGSize_nfloat_nfloat
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_NVector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_NVector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4_NVector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4_NVector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_int_int
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_int_int
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_Int64_Int64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_Int64_Int64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt32
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt32
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt32
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt32
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt32_nint_UInt32
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt32_nint_UInt32
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt64_nint_UInt64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt64_nint_UInt64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_nuint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_nuint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_stret_nuint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_stret_nuint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3d
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3d
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_float_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_float_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKBox
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKBox
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nuint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nuint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nuint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nuint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_nuint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_nuint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_nuint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_nuint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKQuad
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKQuad
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_int
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_int
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_Int64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_Int64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_ref_MPSImageHistogramInfo
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_ref_MPSImageHistogramInfo
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaterniond_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaterniond_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2d_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2d_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3d_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3d_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4d_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4d_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_MDLAxisAlignedBoundingBox_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_MDLAxisAlignedBoundingBox_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector2i_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector2i_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector2i_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector2i_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_float_IntPtr_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_float_IntPtr_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Matrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Matrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Matrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Matrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_NMatrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_NMatrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_NMatrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_NMatrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_UInt32_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_UInt32_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_int_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_int_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_int_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_Int64_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_Int64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_Int64
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_IntPtr_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_IntPtr_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_IntPtr_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_IntPtr_Double
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector4i_bool_bool_bool_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector4i_bool_bool_bool_bool
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_MDLVoxelIndexExtent2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_MDLVoxelIndexExtent2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_stret_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_stret_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector4i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector4i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector4i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector4i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Vector4i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Vector4i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Vector4i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Vector4i
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSend_Vector4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nint
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNNormalizedFaceBoundingBoxPointForLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNImagePointForFaceLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_1
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_5
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_6
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_7
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_8
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_9
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_init_nsthread
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContextEx
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_AcceptSecContext
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_GetUser
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Wrap
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Unwrap
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetDomainSocketSizes
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Core.dll
+Function=BrotliDecoderCreateInstance
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompressStream
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompress
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDestroyInstance
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderIsFinished
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCreateInstance
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderSetParameter
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompressStream
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderHasMoreOutput
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderDestroyInstance
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompress
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppGroupAddDialog
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppGroupContent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppGroupJoinDialog
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppInviteContent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppInviteDialog
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKCameraEffectArguments
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKCameraEffectTextures
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKGameRequestContent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKGameRequestDialog
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKHashtag
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKLikeButton
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKLikeControl
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKMessageDialog
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKSendButton
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+Field=FBSDKShareErrorDomain
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareAPI
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareButton
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareCameraEffectContent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareDialog
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareLinkContent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareMediaContent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareMessengerGenericTemplateContent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareMessengerGenericTemplateElement
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareMessengerMediaTemplateContent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareMessengerOpenGraphMusicTemplateContent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareMessengerURLActionButton
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareOpenGraphAction
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareOpenGraphContent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareOpenGraphObject
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareOpenGraphValueContainer
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKSharePhoto
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKSharePhotoContent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareVideo
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKShareVideoContent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.ShareKit.dll
+Field=FBSDKErrorArgumentCollectionKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKErrorArgumentNameKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKErrorArgumentValueKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKGraphRequestErrorCategoryKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKErrorDeveloperMessageKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKErrorDomain
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKGraphRequestErrorGraphErrorCode
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKGraphRequestErrorGraphErrorSubcode
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKErrorLocalizedDescriptionKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKErrorLocalizedTitleKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKSettings
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKTestUsersManager
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAccessTokenDidChangeNotification
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAccessTokenDidExpireKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAccessTokenChangeNewKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAccessTokenChangeOldKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAccessTokenDidChangeUserIDKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAccessToken
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameAchievedLevel
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameAdClick
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameAdImpression
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameAddedPaymentInfo
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameAddedToCart
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameAddedToWishlist
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameCompletedRegistration
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameCompletedTutorial
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameContact
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameCustomizeProduct
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameDonate
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameFindLocation
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameInitiatedCheckout
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameRated
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameSchedule
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameSearched
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameSpentCredits
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameStartTrial
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameSubmitApplication
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameSubscribe
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameUnlockedAchievement
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventNameViewedContent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameAdType
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameContent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameContentID
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameContentType
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameCurrency
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameDescription
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameLevel
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameMaxRatingValue
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameNumItems
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameOrderID
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNamePaymentInfoAvailable
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameRegistrationMethod
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameSearchString
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterNameSuccess
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkAndroidAppName
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkAndroidPackage
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkAndroidUrl
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkWindowsPhoneAppID
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkWindowsPhoneAppName
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkWindowsPhoneUrl
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIOSAppName
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIOSAppStoreID
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIOSUrl
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIPadAppName
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIPadAppStoreID
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIPadUrl
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIPhoneAppName
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIPhoneAppStoreID
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductAppLinkIPhoneUrl
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductCustomLabel0
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductCustomLabel1
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductCustomLabel2
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductCustomLabel3
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterProductCustomLabel4
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterValueNo
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventParameterValueYes
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventsLoggingResultNotification
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppEventsOverrideAppIDBundleKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppEvents
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKApplicationDelegate
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppLinkVersion
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppLink
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppLinkNavigation
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppLinkResolver
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppLinkReturnToRefererController
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppLinkReturnToRefererView
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppLinkTarget
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKAppLinkUtility
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKButton
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKGraphErrorRecoveryProcessor
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKGraphRequest
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKNonJSONResponseProperty
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKGraphRequestConnection
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKGraphRequestDataAttachment
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKGraphRequestErrorKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKGraphRequestErrorGraphErrorCodeKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKGraphRequestErrorGraphErrorSubcodeKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKGraphRequestErrorHTTPStatusCodeKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKGraphRequestErrorParsedJSONResponseKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorAccessTokens
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorAppEvents
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorCacheErrors
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorDeveloperErrors
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorGraphAPIDebugInfo
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorGraphAPIDebugWarning
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorInformational
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorNetworkRequests
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorPerformanceCharacteristics
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKLoggingBehaviorUIControlErrors
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppLinkNavigateBackToReferrerEventName
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppLinkNavigateInEventName
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppLinkNavigateOutEventName
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKAppLinkParseEventName
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKMeasurementEventArgsKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKMeasurementEventNameKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKMeasurementEventNotification
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKMeasurementEvent
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKProfileDidChangeNotification
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKProfileChangeNewKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+Field=FBSDKProfileChangeOldKey
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKProfile
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKProfilePictureView
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_BFTask
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKURL
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKUtility
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKWebViewAppLinkResolver
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.CoreKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKDeviceLoginCodeInfo
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKDeviceLoginManager
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKDeviceLoginManagerResult
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+Field=FBSDKLoginErrorDomain
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKLoginButton
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKLoginManager
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKLoginManagerLoginResult
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKLoginTooltipView
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+ObjectiveCClass=OBJC_CLASS_$_FBSDKTooltipView
+	/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Facebook.LoginKit.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

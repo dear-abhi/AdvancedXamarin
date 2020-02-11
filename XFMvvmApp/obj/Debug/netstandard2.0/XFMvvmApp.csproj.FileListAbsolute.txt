@@ -1,0 +1,11 @@
+/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/bin/Debug/netstandard2.0/XFMvvmApp.deps.json
+/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/bin/Debug/netstandard2.0/XFMvvmApp.dll
+/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/bin/Debug/netstandard2.0/XFMvvmApp.pdb
+/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/obj/Debug/netstandard2.0/XFMvvmApp.csprojAssemblyReference.cache
+/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/obj/Debug/netstandard2.0/XFMvvmApp.AssemblyInfoInputs.cache
+/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/obj/Debug/netstandard2.0/XFMvvmApp.AssemblyInfo.cs
+/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/obj/Debug/netstandard2.0/XFMvvmApp.dll
+/Users/abhijithr/Projects/Xamarin/XFMvvmApp/XFMvvmApp/obj/Debug/netstandard2.0/XFMvvmApp.pdb
